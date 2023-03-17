@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-<div align="center">
+<div align="left">
 
   <h1>Shaker Abady Portfolio</h1>
   
