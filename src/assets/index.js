@@ -20,15 +20,26 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import ruby from "./tech/ruby.png";
+import postgres from "./tech/postgres.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import microverse from "./company/microverse.png";
+import sociumtech from "./company/sociumtech.png";
+import orange from "./company/orange.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import finalCapstone from "./finalCapstone.png";
+import covid19 from "./covid19.jpeg";
+import budgetApp from "./budgetApp.png";
+import osaid from "./osaid.jpeg";
+import jonathan from "./jonathan.jpeg";
+import shedrack from "./shedrack.jpeg";
 
 export {
   logo,
@@ -56,7 +67,18 @@ export {
   shopify,
   starbucks,
   tesla,
+  microverse,
+  sociumtech,
+  orange,
   carrent,
   jobit,
   tripguide,
+  finalCapstone,
+  covid19,
+  budgetApp,
+  osaid,
+  jonathan,
+  shedrack,
+  ruby,
+  postgres,
 };

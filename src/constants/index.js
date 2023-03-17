@@ -15,14 +15,18 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
+  budgetApp,
   threejs,
+  microverse,
+  sociumtech,
+  orange,
+  finalCapstone,
+  covid19,
+  osaid,
+  jonathan,
+  shedrack,
+  ruby,
+  postgres,
 } from "../assets";
 
 export const navLinks = [
@@ -46,7 +50,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React Developer",
     icon: mobile,
   },
   {
@@ -54,7 +58,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Ruby on Rails Developer",
     icon: creator,
   },
 ];
@@ -89,18 +93,6 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
   },
@@ -109,61 +101,51 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "ruby on rails",
+    icon: ruby,
+  },
+  {
+    name: "postgres",
+    icon: postgres,
   },
 ];
 
 const experiences = [
   {
     title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    company_name: "Micorverse",
+    icon: microverse,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "September 2022 - April 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Spent 1300+ hours mastering algorithms, data structures, and full-stack development while simultaneously developing projects with Ruby, Rails, JavaScript, React, and Redux",
+      "Developed skills in remote pair-programming using GitHub, industry-standard gitflow, and daily standups to communicate and collaborate with international remote developers",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Full - stack Web Developer at Socium Tech",
+    company_name: "Socium Tech",
+    icon: sociumtech,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Dec 2020 - March 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Forbes Media - Building new pages in Forbes Media website that gets million of visitors every month",
+      "Participated in fixing bugs and suggesting new solutions for current problems",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Full stack Developer - student",
+    company_name: "Orange Coding Academy",
+    icon: orange,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "June 2019 - Dec 2020",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Learned the basics of Web Development and Created many Full-stack projects using the following technologies (HTML-CSS-JavaScript-ReactJS, PHP Laravel)",
+      "Online Store -  Built an online Store to show different items and filter all the items based on the price",
+      "Cleaning Services: Built a Cleaning service website that allows people to offer their cleaning services and people to hire the,Built with: (HTML - CSS - JavaScript React - PHP Laravel)",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
@@ -172,56 +154,60 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Having worked closely with Shaker for several weeks on daily remote pair programming projects, I can attest to his strong skills in JavaScript, algorithms, and CSS. He is a detail-oriented developer with a positive attitude towards teamwork, making him a valuable asset to any team.",
+    name: "Osaid Ayadi",
+    designation: "Front End Developer",
+    company: "Socium Tech",
+    image: osaid,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Over the course of several weeks, I had the pleasure of working with Shaker Abady on daily remote pair programming projects. He has an excellent grasp of JavaScript, algorithms, and CSS, and he consistently demonstrates a positive attitude toward teamwork.",
+    name: "Jonathan Kayizzi",
+    designation: "Full Stack Engineer",
+    company: "Microverse",
+    image: jonathan,
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "I had the opportunity to work with Shaker Abady in a pair learning group for a few weeks. One of his most notable skills is his excellent communication and synchronization abilities, making him a great collaborator. He is an asset to any team and a pleasure to work with.",
+    name: "Shedrack Sunday",
+    designation: "Full Stack Developer",
+    company: "Microverse",
+    image: shedrack,
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Trip Reservations",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to search, book, and manage Trips Reservations, Built with Ruby on Rails, React, Redux, and PostgresSQL, meant for training purposes only.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "PostgresSQL",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Ruby on Rails",
         color: "pink-text-gradient",
       },
+      {
+        name: "Redux",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: finalCapstone,
+    source_code_link: "https://github.com/shakerAbuDrais/final-capstone-frontend",
   },
   {
-    name: "Job IT",
+    name: "Covid19 Tracker",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that enables users to get the latests stats of covid 19, view stats per specific country, Built using React, Redux, Bootstrap, meant for training purposes only.",
     tags: [
       {
         name: "react",
@@ -232,33 +218,41 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "bootstrap",
         color: "pink-text-gradient",
       },
+      {
+        name: "redux",
+        color: "yellow-text-gradient",
+      },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: covid19,
+    source_code_link: "https://funny-fudge-a808b4.netlify.app/",
   },
   {
-    name: "Trip Guide",
+    name: "Budget App",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Simple budget app that allows users to add expenses to see where they spent the money, Built using Ruby on Rails, Bootstrap. Meant for mobile devices only.",
     tags: [
       {
-        name: "nextjs",
+        name: "Ruby on Rails",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Bootstrap",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "PostgresSQL",
         color: "pink-text-gradient",
       },
+      {
+        name: "erb templates",
+        color: "yellow-text-gradient",
+      }
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: budgetApp,
+    source_code_link: "https://github.com/shakerAbuDrais/RoR-Budget-App",
   },
 ];
 
