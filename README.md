@@ -33,10 +33,6 @@
 <!-- About the Project -->
 ## :star2: About the Project
 
-<div align="center">
-  <img src="readme_assets/3d-portfolio.png" height="auto" width="90%"/>
-</div>
-
 <br />
 
 This repository houses an well-designed and functional Developer Portfolio Website consisting Navbar, Hero, Overview, Work Experience, Technologies, Projects, Testimonials and Contact sections built with React & Three.js using TailwindCSS ⏭
@@ -69,7 +65,7 @@ Threejs_3D_Portfolio/
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,threejs)](https://skillicons.dev)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="left">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Getting Started -->
 ## :toolbox: Getting Started
@@ -135,17 +131,17 @@ At the main folder execute the following command in console to run the developme
   npm run dev
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="left">(<a href="#readme-top">back to top</a>)</p>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="left">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- License -->
 ## :warning: License
 
 Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/LICENSE) for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="left">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contact -->
 ## :handshake: Aknowledgements
@@ -168,8 +164,8 @@ This section used to mention useful resources and libraries that used in 3D Port
  - [React Vertical Timeline Component](https://www.npmjs.com/package/react-vertical-timeline-component)
  - #JSMastery
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="left">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/public/logo.png" height="auto" width="10%" />
 </p>
