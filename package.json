@@ -7,7 +7,7 @@
     "prebuild": "npm install --legacy-peer-deps",
     "start": "react-scripts start",
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --output-dir=public",
     "preview": "vite preview"
   },
   "dependencies": {
