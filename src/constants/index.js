@@ -112,7 +112,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
+    title: "Full-Stack Developer RoR - React",
     company_name: "Micorverse",
     icon: microverse,
     iconBg: "#383E56",
